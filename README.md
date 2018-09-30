@@ -5,7 +5,10 @@ This is an actix-web server Rust app that is supposed to be run on the [Mozilla 
 
 Follow [this blog post](https://sizeof.cat/post/postmarketos-on-mozilla-flame/) to install `postmarketOS` to your Flame device.
 
-Don't select UI (set `none` when asked) and choose the following extra packages: `vim,git,nodejs,nodejs-npm,yarn,parted,gcc`
+Don't select UI (set `none` when asked) and choose the following extra packages: `vim,git,nodejs,nodejs-npm,yarn,parted,gcc`.
+
+Also see [device specific recipes](https://gitlab.com/postmarketOS/pmaports/tree/master/device/device-t2m-flame) in `postmarketOS` repo.
+
 
 ## Setup ARM toolchain
 
