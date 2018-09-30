@@ -1,0 +1,7 @@
+[package]
+name = "rust-app"
+version = "0.1.0"
+authors = ["Aleh Zasypkin <aleh.zasypkin@gmail.com>"]
+
+[dependencies]
+actix-web = "0.7.8"
